@@ -1,6 +1,6 @@
 {
   "userList":{
-  {
+  
   "myName": "본인",
   "profileUrl": "https://pokeapi.co/api/v2/pokemon/6/",
   "fcmToken": "FcmToken",
@@ -31,7 +31,7 @@
       "profileUrl": "https://pokeapi.co/api/v2/pokemon/5/"
     }
   ]
-}}
+}
   "movieslist": {
     "status": 200,
     "source": "Success",
