@@ -1,4 +1,37 @@
 {
+  "userList":{
+  {
+  "myName": "본인",
+  "profileUrl": "https://pokeapi.co/api/v2/pokemon/6/",
+  "fcmToken": "FcmToken",
+  "results": [
+    {
+      "userName": "타인1",
+      "fcmToken": "FcmToken",
+      "profileUrl": "https://pokeapi.co/api/v2/pokemon/1/"
+    },
+    {
+      "userName": "타인2",
+      "fcmToken": "FcmToken",
+      "profileUrl": "https://pokeapi.co/api/v2/pokemon/2/"
+    },
+    {
+      "userName": "타인3",
+      "fcmToken": "FcmToken",
+      "profileUrl": "https://pokeapi.co/api/v2/pokemon/3/"
+    },
+    {
+      "userName": "타인4",
+      "fcmToken": "FcmToken",
+      "profileUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "userName": "타인5",
+      "fcmToken": "FcmToken",
+      "profileUrl": "https://pokeapi.co/api/v2/pokemon/5/"
+    }
+  ]
+}}
   "movieslist": {
     "status": 200,
     "source": "Success",
