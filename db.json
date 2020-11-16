@@ -1,34 +1,24 @@
 {
-  "userList":{
-  "myName": "본인",
-  "profileUrl": "https://pokeapi.co/api/v2/pokemon/6/",
-  "fcmToken": "FcmToken",
-  "results": [
-    {
-      "userName": "타인11",
-      "fcmToken": "FcmToken",
-      "profileUrl": "https://pokeapi.co/api/v2/pokemon/1/"
-    },
-    {
-      "userName": "타인2",
-      "fcmToken": "FcmToken",
-      "profileUrl": "https://pokeapi.co/api/v2/pokemon/2/"
-    },
-    {
-      "userName": "타인3",
-      "fcmToken": "FcmToken",
-      "profileUrl": "https://pokeapi.co/api/v2/pokemon/3/"
-    },
-    {
-      "userName": "타인4",
-      "fcmToken": "FcmToken",
-      "profileUrl": "https://pokeapi.co/api/v2/pokemon/4/"
-    },
-    {
-      "userName": "타인5",
-      "fcmToken": "FcmToken",
-      "profileUrl": "https://pokeapi.co/api/v2/pokemon/5/"
-    }
-  ]
-}
+  "userList": {
+    "myName": "본인",
+    "profileUrl": "https://pokeapi.co/api/v2/pokemon/6/",
+    "fcmToken": "FcmToken",
+    "results": [
+      {
+        "userName": "sg.lee@maxted.kr",
+        "fcmToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "profileUrl": "https://pokeapi.co/api/v2/pokemon/1/"
+      },
+      {
+        "userName": "dg.lee@maxted.kr",
+        "fcmToken": "fcmToken_dg.lee",
+        "profileUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+      },
+      {
+        "userName": "segyu.lee@maxted.kr",
+        "fcmToken": "fcmToken_segyu.lee",
+        "profileUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+      }
+    ]
+  }
 }
