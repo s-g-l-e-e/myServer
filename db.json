@@ -5,14 +5,14 @@
     "fcmToken": "FcmToken",
     "results": [
       {
-        "receiverName": "dg.lee@maxted.kr",
-        "receiverToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+        "userName": "dg.lee@maxted.kr",
+        "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
       },
       {
-        "receiverName": "yr.kim@maxted.kr",
-        "receiverToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/8/"
+        "userName": "yr.kim@maxted.kr",
+        "userToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/8/"
       }
     ]
   },
@@ -22,14 +22,14 @@
     "fcmToken": "FcmToken",
     "results": [
       {
-        "receiverName": "sg.lee@maxted.kr",
-        "receiverToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/1/"
+        "userName": "sg.lee@maxted.kr",
+        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
       },
       {
-        "receiverName": "yr.kim@maxted.kr",
-        "receiverToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/8/"
+        "userName": "yr.kim@maxted.kr",
+        "userToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/8/"
       }
     ]
   },
@@ -39,14 +39,14 @@
     "fcmToken": "FcmToken",
     "results": [
       {
-        "receiverName": "sg.lee@maxted.kr",
-        "receiverToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/1/"
+        "userName": "sg.lee@maxted.kr",
+        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
       },
          {
-        "receiverName": "dg.lee@maxted.kr",
-        "receiverToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
-        "receiverUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+        "userName": "dg.lee@maxted.kr",
+        "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
       }
     ]
   }
