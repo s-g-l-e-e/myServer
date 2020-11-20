@@ -5,15 +5,20 @@
     "fcmToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
     "results": [
       {
-        "userName": "dg.lee@maxted.kr",
-        "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
-        "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+        "userName": "th.jang@maxted.kr",
+        "userToken": "cxgkgENkQAKvQMGhHJaoxN:APA91bEKpYLxbWKihcFoWI8aRGsTwR1MJZ_TjxT1gCTKqkj6FTCKiQclq7-gam_Akt7T6TBhJmHTN8P2DYprwXXGoJ4Dpv42WDO3QNJ0Mssc9psvmcHP_3O-R0JgxHaBQ0jUHT3lWB-G",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/18/"
       },
       {
         "userName": "yr.kim@maxted.kr",
         "userToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/8/"
-      }
+      },
+            {
+        "userName": "dg.lee@maxted.kr",
+        "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+      },
     ]
   },
    "userListB": {
@@ -30,7 +35,12 @@
         "userName": "yr.kim@maxted.kr",
         "userToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/8/"
-      }
+      },
+            {
+        "userName": "th.jang@maxted.kr",
+        "userToken": "cxgkgENkQAKvQMGhHJaoxN:APA91bEKpYLxbWKihcFoWI8aRGsTwR1MJZ_TjxT1gCTKqkj6FTCKiQclq7-gam_Akt7T6TBhJmHTN8P2DYprwXXGoJ4Dpv42WDO3QNJ0Mssc9psvmcHP_3O-R0JgxHaBQ0jUHT3lWB-G",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/18/"
+      },
     ]
   },
    "userListC": {
@@ -47,6 +57,33 @@
         "userName": "dg.lee@maxted.kr",
         "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+      },
+            {
+        "userName": "th.jang@maxted.kr",
+        "userToken": "cxgkgENkQAKvQMGhHJaoxN:APA91bEKpYLxbWKihcFoWI8aRGsTwR1MJZ_TjxT1gCTKqkj6FTCKiQclq7-gam_Akt7T6TBhJmHTN8P2DYprwXXGoJ4Dpv42WDO3QNJ0Mssc9psvmcHP_3O-R0JgxHaBQ0jUHT3lWB-G",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/18/"
+      },
+    ]
+  },
+   "userListD": {
+    "myName": "th.jang@maxted.kr",
+    "profileUrl": "https://pokeapi.co/api/v2/pokemon/18/",
+    "fcmToken": "cxgkgENkQAKvQMGhHJaoxN:APA91bEKpYLxbWKihcFoWI8aRGsTwR1MJZ_TjxT1gCTKqkj6FTCKiQclq7-gam_Akt7T6TBhJmHTN8P2DYprwXXGoJ4Dpv42WDO3QNJ0Mssc9psvmcHP_3O-R0JgxHaBQ0jUHT3lWB-G",
+    "results": [
+      {
+        "userName": "sg.lee@maxted.kr",
+        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
+      },
+         {
+        "userName": "dg.lee@maxted.kr",
+        "userToken": "ckuX_fBNSlyRhECAcajppp:APA91bFxEjPeFVaWFHmj4jchKaPwtACGK_nM7oGYaB8W6Z0BscDDTds_hh_blq55V0JVtfPiEi7goascMyx_7EfVxrwfm7Jq8YOO_t-D3GmcgdGAgaekw4T_fVHCvgMf3NtscBKtJsKi",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/4/"
+      },
+       {
+        "userName": "yr.kim@maxted.kr",
+        "userToken": "eleHt8cyTySALvsr95U2tP:APA91bEf1v3co7HAtBDV80JKUnNXFk7guVyIjaZ-XCeznIPdQpDtvYkoOndr-LYmzJJFOivu60ED9hBMslPP41KWWED_4GrZcR7LKAcONF_3MKqfClaSYKvYIU_xbkHM9ssRZ-rs7hF8",
+        "userUrl": "https://pokeapi.co/api/v2/pokemon/8/"
       }
     ]
   }
