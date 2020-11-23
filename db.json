@@ -2,7 +2,7 @@
   "userListA": {
     "myName": "sg.lee@maxted.kr",
     "profileUrl": "https://pokeapi.co/api/v2/pokemon/6/",
-    "fcmToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+    "fcmToken": "doqNUlSHS_aZm2BU11AEIM:APA91bGbVyb34O-hI4KSBrdsOc37gOhq0hTPWTOEcyHLRVWhhs6CcUR-Ko0k0BzyAafNvyVC-71oStgZ8EgspgD16C-SUztsUiFtvFTHiwkx_tXG0dzo4Khy5tS7sCxQMJzU4cZilB46",
     "results": [
       {
         "userName": "th.jang@maxted.kr",
@@ -28,7 +28,7 @@
     "results": [
       {
         "userName": "sg.lee@maxted.kr",
-        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userToken": "doqNUlSHS_aZm2BU11AEIM:APA91bGbVyb34O-hI4KSBrdsOc37gOhq0hTPWTOEcyHLRVWhhs6CcUR-Ko0k0BzyAafNvyVC-71oStgZ8EgspgD16C-SUztsUiFtvFTHiwkx_tXG0dzo4Khy5tS7sCxQMJzU4cZilB46",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
       },
       {
@@ -50,7 +50,7 @@
     "results": [
       {
         "userName": "sg.lee@maxted.kr",
-        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userToken": "doqNUlSHS_aZm2BU11AEIM:APA91bGbVyb34O-hI4KSBrdsOc37gOhq0hTPWTOEcyHLRVWhhs6CcUR-Ko0k0BzyAafNvyVC-71oStgZ8EgspgD16C-SUztsUiFtvFTHiwkx_tXG0dzo4Khy5tS7sCxQMJzU4cZilB46",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
       },
          {
@@ -72,7 +72,7 @@
     "results": [
       {
         "userName": "sg.lee@maxted.kr",
-        "userToken": "fpIXo1oGQJ2RFrUnzE6-I6:APA91bFF4BoqctV9-GDn0CSTlo5FcpKtK5Y7FyTLAahbs7vOgrhZ4r0_NkkujK2Du0qNy57Cgtq_1voaHUZdPiTM3CBIFOM1cYD-mYa-z2MM0KJSLdSbB_cOwqm4GTxcGhGAVc9J5leU",
+        "userToken": "doqNUlSHS_aZm2BU11AEIM:APA91bGbVyb34O-hI4KSBrdsOc37gOhq0hTPWTOEcyHLRVWhhs6CcUR-Ko0k0BzyAafNvyVC-71oStgZ8EgspgD16C-SUztsUiFtvFTHiwkx_tXG0dzo4Khy5tS7sCxQMJzU4cZilB46",
         "userUrl": "https://pokeapi.co/api/v2/pokemon/1/"
       },
          {
